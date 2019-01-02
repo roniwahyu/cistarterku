@@ -1,12 +1,11 @@
 {
 	"description" : "The CodeIgniter Application with Composer",
-	"name": "roniwahyu/civuestarterku",
+	"name": "roniwahyu/cistarterku",
 	"type": "project",
 	"keywords": [
         "CodeIgniter",
         "Composer",
         "installer",
-        "VueJS",
         "Starter"
     ],
 	"homepage": "http://roniwahyu.com",
