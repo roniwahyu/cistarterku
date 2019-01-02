@@ -1,10 +1,10 @@
-# Codeigniter VueJS Starter 2019
+# Codeigniter Starter 2019
 
 ```
-Dimodifikasi dari berbagai sumber oleh
+Dimodifikasi dari berbagai sumber oleh Syahroni Wahyu Iriananda awal project
 ```
-Syahroni Wahyu Iriananda
-```
+
+
 
 ## Modified and Influencer
 
