@@ -46,7 +46,7 @@ codeigniter/
 ### Install CodeIgniter
 
 ```
-$ composer create-project kenjis/codeigniter-composer-installer codeigniter
+$ composer create-project roniwahyu/cistarterku:dev-master direktorianda
 ```
 
 Above command installs `public/.htaccess` to remove `index.php` in your URL. If you don't need it, please remove it.
