@@ -64,7 +64,6 @@ class Installer
                 'repos' => 'cistarterku-template',
                 'name'  => 'Template Library for this cistarterku',
                 'dir'   => array('libraries'),
-                'pre'   => 'application/',
                 'msg'   => 'See https://github.com/roniwahyu/cistarterku-template',
                 'example_branch' => 'master',
             ),
