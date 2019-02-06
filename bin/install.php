@@ -57,6 +57,16 @@ class Installer
                 'dir'   => array('core', 'third_party'),
                 'msg'   => 'See https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc',
                 'example_branch' => 'codeigniter-3.x',
+            ), 
+            'cistarterku-template' => array(
+                'site'  => 'github',
+                'user'  => 'roniwahyu',
+                'repos' => 'cistarterku-template',
+                'name'  => 'Template Library for this cistarterku',
+                'dir'   => array('libraries'),
+                'pre'   => 'application/',
+                'msg'   => 'See https://github.com/roniwahyu/cistarterku-template',
+                'example_branch' => 'master',
             ),
             'ion-auth' => array(
                 'site'  => 'github',
